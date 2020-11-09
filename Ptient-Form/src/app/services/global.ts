@@ -1,4 +1,4 @@
 export var GLOBAL = {
-    url: '',
-    ip: ''
+    url: '/api',
+    ip: '127.0.0.0'
 }
