@@ -5,7 +5,7 @@ import {
   HttpHeaders,
   HttpClientModule,
 } from "@angular/common/http";
-import { GLOBAL } from "./GLOBAL";
+import { GLOBAL } from "./global";
 import { map } from "rxjs/operators";
 import { User } from '../models/user';
 
